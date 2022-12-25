@@ -1,0 +1,3 @@
+[submodule "cs-university-mssql-theory"]
+	path = cs-university-mssql-theory
+	url = https://github.com/5enthilbaliah/cs-university-mssql-theory.git
